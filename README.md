@@ -6,7 +6,7 @@
 - ## GUIDE:
   - ### Open the terminal in the folder where you want to place the project and run:<br>
     ```cmd
-    git clone https://github.com/Dev-LDRC/TO_DO_LIST_-_REACT.git
+    git clone https://github.com/DevLDRC/TO_DO_LIST_-_REACT.git
     ```
 
   - ### In the same terminal, enter the project folder:<br>
