@@ -138,7 +138,7 @@ export default class Main extends Component {
                   </div>
 
                   <div>
-                     <a href="https://github.com/Dev-LDRC/TO_DO_LIST_-_REACT"><p>https://github.com/Dev-LDRC/TO_DO_LIST_-_REACT</p></a>
+                     <a href="https://github.com/DevLDRC/TO_DO_LIST_-_REACT"><p>https://github.com/DevLDRC/TO_DO_LIST_-_REACT</p></a>
                   </div>
 
                </section>
